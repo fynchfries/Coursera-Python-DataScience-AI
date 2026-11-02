@@ -5,13 +5,13 @@ Course Introduction
 > very powerful
 > huge ecosystem of libraries
 
-- Great at a huge tasks:
+- Great for a wide range of tasks:
   > Data Analysis
-  > Web Scrapping
+  > Web Scraping
   > Big Data
   > Finance
   > Computer Vision
-  > NPL
+  > NLP
   > ML
   > DL
 
@@ -32,8 +32,8 @@ Course Introduction
   - Module 3: Python Programming Fundamentals
    > Conditions and Branching
    > Loops
-   > Funtions
-   > Exemption Handling
+   > Functions
+   > Exception Handling
    > Objects
    > Classes
    > Practice with Python Programming Fundamentals
@@ -45,7 +45,7 @@ Course Introduction
 
   - Module 5: APIs and Data Collection
    > Simple APIs
-   > REST APIs, Web Scrapping, and Working with Files
+   > REST APIs, Web Scraping, and Working with Files
    > Final Exam
 
 
