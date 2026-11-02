@@ -1,3 +1,47 @@
 Python & Jupyter
 
+* Objectives:
+ > Identify the users of Python
+ > Benefits of using Python
+ > Describe the diversity and inclusion efforts of the Python community
 
+* Python
+ > Most widely used in the Data Science industry
+ > Uses clear and readable syntax
+
+ > Useful in many areas:
+  - Data Science
+  - AI
+  - Machine Learning
+  - Web Development
+  - IOT (Raspberry Pi)
+
+ > Large Ogranizations who used:
+  - IBM
+  - Wikipedia
+  - Google
+  - Yahoo
+  - CERN
+  - NASA
+  - Facebook
+  - Amazon
+  - Instagram
+  - Spotify
+  - Reddit
+
+ > General-purpose language
+ > Large standard library
+
+ > for Data Science it has computing libraries:
+  - Pandas
+  - Numpy
+  - Scipy
+  - Matplotlib
+
+ > for AI libraries:
+  - TensorFlow
+  - PyTorch
+  - Keras
+  - Scikit-learn
+
+ > Used for Natural Language Processing(NLP) using the Natural Language Toolkit(NLTK)
