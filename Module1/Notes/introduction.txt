@@ -1,0 +1,54 @@
+Course Introduction
+
+* Python:
+> easy to learn
+> very powerful
+> huge ecosystem of libraries
+
+- Great at a huge tasks:
+  > Data Analysis
+  > Web Scrapping
+  > Big Data
+  > Finance
+  > Computer Vision
+  > NPL
+  > ML
+  > DL
+
+* Course Syllabus:
+
+  - Module 1: Python Basics
+   > About the Course
+   > Types
+   > Expressions and Variables
+   > String Operations
+
+  - Module 2: Python Data Structures
+   > Lists
+   > Tuples
+   > Dictionaries
+   > Sets
+
+  - Module 3: Python Programming Fundamentals
+   > Conditions and Branching
+   > Loops
+   > Funtions
+   > Exemption Handling
+   > Objects
+   > Classes
+   > Practice with Python Programming Fundamentals
+
+  - Module 4: Working with Data in Python
+   > Reading and Writing Files with Open
+   > Pandas
+   > Numpy in Python
+
+  - Module 5: APIs and Data Collection
+   > Simple APIs
+   > REST APIs, Web Scrapping, and Working with Files
+   > Final Exam
+
+
+
+
+
