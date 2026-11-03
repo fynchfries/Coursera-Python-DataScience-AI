@@ -2,19 +2,17 @@
 
 ## Learning objectives
 
-By the end of this topic, you should be able to:
-
 - Identify users of Python
 - Describe the benefits of using Python
 - Describe diversity and inclusion efforts in the Python community
 
-## Python at a glance
+## About Python
 
 - Python is widely used in data science.
 - Its syntax is clear and readable.
 - It is a general-purpose language with a large standard library.
 
-## Where Python is used
+## Where Python is used?
 
 - Data science
 - Artificial intelligence (AI) and machine learning (ML)
@@ -54,9 +52,3 @@ By the end of this topic, you should be able to:
 ### Natural language processing
 
 - NLTK (Natural Language Toolkit)
-
-## Review notes
-
-- **Main takeaway:** Python is a general-purpose language used across data science, AI, web development, and other fields.
-- **Question to revisit:** What diversity and inclusion efforts are taking place in the Python community?
-- **Practice idea:** Choose one library from the list and summarize what it is used for.

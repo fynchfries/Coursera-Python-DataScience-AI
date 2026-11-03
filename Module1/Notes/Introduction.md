@@ -58,16 +58,3 @@ Python is useful for many kinds of work, including:
 - REST APIs, web scraping, and working with files
 - Final exam
 
-## Review notes
-
-- **Main takeaway:**
-The course moves from Python basics to data structures, programming, data tools, and APIs.
-
-- **New terms to review:**
-Pandas, NumPy, API, NLP, ML, and DL.
-
-- **Question to revisit:**
-Which Python libraries are useful for data analysis?
-
-- **Practice idea:**
-Choose one area above and write down an example of how Python could be used in it.
