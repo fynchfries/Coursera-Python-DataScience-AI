@@ -22,7 +22,7 @@
  - include the integers and number between the integers (e.g. x = 5: 5.0)
 
 ## Changing Expression Type
- `Type Casting` converting an expression (e.g. float(3):3.0)
+ `Type Casting` converting an expression (e.g. float(3):3.0; int(3.99):3)
 
 ## Data Types: Boolean
  - contain 2 values
